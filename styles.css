@@ -1,0 +1,27 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	color: greenyellow;
+}
+
+h2 {
+	color: greenyellow;
+}
+
+p {
+	color: crimson;
+	font-family: 'Slabo 27px', serif;
+}
+
+body {
+	background-color: limegreen;
+}
+
+#header-section {
+	padding-top: 47.5vh;
+	padding-bottom: 47.5vh;
+	text-align: center;
+}
